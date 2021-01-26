@@ -11,6 +11,8 @@ MRTK-Unity is a Microsoft-driven project that provides a set of components and f
 
 The videos and sample in this repository provides an introductory lesson on the Spatial Awareness system. The Spatial Awareness system provides real-world environmental awareness in mixed reality applications.
 
+**Note**: This project uses billable Azure services. Be sure to delete your Azure resources if you do not intend to use this app for production.
+
 ## Requirements
 
 - Windows 10
@@ -24,10 +26,10 @@ Videos are published on YouTube in the playlist: [Made with MRTK: Bot Integratio
 
 |  Title |  Description |  Link |
 |---|---|---|
-| **Bot Integration: Setup Project**  | Learn how to setup your Unity environment in preparation to integrate a bot into the experience  | [tbd](tbd)  |
-| **Bot Integration: Create Azure Resources** |  Learn how to import the Mixed Reality Toolkit into Unity and configure the project with the Mixed Reality Toolkit. | [tbd](tbd) |
-| **Bot Integrations: Create UI and Bot Integration**  | Learn how to enable the MRTK Spatial Awareness system in Unity.  | [tbd](tbd)    |
-| **Bot Integration: Demo** | Learn how to add a spatial observer to the configuration profile.  | [tbd](tbd)  |
+| **Bot Integration: Setup Project**  | Learn how to setup your Unity environment in preparation to integrate a bot into the experience  | [https://youtu.be/li5GDKHWzAk](https://youtu.be/li5GDKHWzAk)  |
+| **Bot Integration: Create Azure Resources** |  Learn how to import the Mixed Reality Toolkit into Unity and configure the project with the Mixed Reality Toolkit. | [https://youtu.be/HPUMXxeDq4M](https://youtu.be/HPUMXxeDq4M) |
+| **Bot Integration: Create UI and Bot Integration**  | Learn how to enable the MRTK Spatial Awareness system in Unity.  | [https://youtu.be/pQO5P72n8Vc](https://youtu.be/pQO5P72n8Vc)    |
+| **Bot Integration: Demo** | Learn how to add a spatial observer to the configuration profile.  | [https://youtu.be/zo-VHyKwraM](https://youtu.be/zo-VHyKwraM)  |
 
 
 ## View the Sample
@@ -36,13 +38,15 @@ Videos are published on YouTube in the playlist: [Made with MRTK: Bot Integratio
 2. Unzip the package.
 3. Create a new Unity project.
 4. [Configure Unity for Windows Mixed Reality development](https://aka.ms/learn-mrtk-unity).
-5. Configure the Publishing capabilities: Internet Client, Internet Client Service, Private Network Server, Microphone.
+5. Configure the Publishing capabilities: Internet Client, Internet Client Service, Private Network Client Server, Microphone.
 6. Import the Cognitive Services Speech SDK.
 7. Import TMP essential resources
 8. Import the Mixed Reality Toolkit Foundation package. After import, in the MRTK Project Configurator window, select **MS HRTF Spatializer** for the **Spatializer Plugin**. 
 Next, apply the default settings in the **MRTK Project Configurator**. Finally, add MRTK to scene and configure.
-9. Open the sample_spatial_awareness (Project panel > Assets > Scenes > sample_spatial_awareness)
-10. Click the **play button** to enter play mode.
+9. Open the sample_bot_integration scene (Project panel > Assets > Scenes > sample_bot_integration).
+10. In the Microphone object, enter your Subscription Key, Region, and Bot ID in the Bot(Script) component.
+11. Ensure that all objects are assigned to Listen Once Button (Microphone), Recognized Text (Recognixed Text), Error Text (Error), and State Indicator (Connection Status).
+12. Click the **play button** to enter play mode.
 
 Note: To simulate hand input, press the spacebar (right hand) and/or the left shift key (left hand).
 
