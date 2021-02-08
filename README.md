@@ -18,7 +18,7 @@ The videos and sample in this repository provides an introductory lesson on the 
 - Windows 10
 - Unity Version 2019.4.11f1
 - [MRTK Foundation Package 2.5.3] (https://github.com/microsoft/MixedRealityToolkit-Unity/releases/tag/v2.5.3)
-- [Tools Installed for Windows Mixed Reality development](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/install-the-tools?tabs=unity)
+- [Tools Installed for Windows Mixed Reality development](https://docs.microsoft.com/windows/mixed-reality/develop/install-the-tools?tabs=unity&WT.mc_id=spatial-0000-apspeigh)
 
 ## Videos
 
@@ -62,7 +62,7 @@ Cognitive Services Speech SDK: [Microsoft.CognitiveServices.Speech](https://www.
 
 Create an Azure Account: [aka.ms/mrtk-azure](aka.ms/mrtk-azure)
 
-QnA Maker Quickstart: [aka.ms/qna-maker](https://docs.microsoft.com/azure/cognitive-services/qnamaker/quickstarts/create-publish-knowledge-base?tabs=v1/?WT.mc_id=spatial-10640-apspeigh)
+QnA Maker Quickstart: [aka.ms/qna-maker](https://docs.microsoft.com/azure/cognitive-services/qnamaker/quickstarts/create-publish-knowledge-base?tabs=v1%2F%3FWT.mc_id%3Dspatial-10640-apspeigh&WT.mc_id=spatial-0000-apspeigh)
 
 Connect to Direct Line of Speech: [aka.ms/direct-line-of-speech](https://docs.microsoft.com/azure/bot-service/bot-service-channel-connect-directlinespeech/?WT.mc_id=spatial-10640-apspeigh)
 
