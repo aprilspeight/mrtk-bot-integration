@@ -9,7 +9,7 @@
 
 MRTK-Unity is a Microsoft-driven project that provides a set of components and features, used to accelerate cross-platform MR app development in Unity.
 
-The videos and sample in this repository provides an introductory lesson on the Spatial Awareness system. The Spatial Awareness system provides real-world environmental awareness in mixed reality applications.
+The videos and sample in this repository provides an introductory to creating a bot with the QnA Maker and integrating into a Mixed Reality project.
 
 **Note**: This project uses billable Azure services. Be sure to delete your Azure resources if you do not intend to use this app for production.
 
@@ -28,7 +28,7 @@ Videos are published on YouTube in the playlist: [Made with MRTK: Bot Integratio
 |---|---|---|
 | **Bot Integration: Setup Project**  | Learn how to setup your Unity environment in preparation to integrate a bot into the experience  | [https://youtu.be/li5GDKHWzAk](https://youtu.be/li5GDKHWzAk)  |
 | **Bot Integration: Create Azure Resources** |  Learn how to import the Mixed Reality Toolkit into Unity and configure the project with the Mixed Reality Toolkit. | [https://youtu.be/HPUMXxeDq4M](https://youtu.be/HPUMXxeDq4M) |
-| **Bot Integration: Create UI and Bot Integration**  | Learn how to enable the MRTK Spatial Awareness system in Unity.  | [https://youtu.be/pQO5P72n8Vc](https://youtu.be/pQO5P72n8Vc)    |
+| **Bot Integration: Create UI and Bot Integration**  | Learn how to create the UI and add the scripts for bot integration.  | [https://youtu.be/pQO5P72n8Vc](https://youtu.be/pQO5P72n8Vc)    |
 | **Bot Integration: Demo** | Learn how to add a spatial observer to the configuration profile.  | [https://youtu.be/zo-VHyKwraM](https://youtu.be/zo-VHyKwraM)  |
 
 
