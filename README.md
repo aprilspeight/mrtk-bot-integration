@@ -26,8 +26,8 @@ Videos are published on YouTube in the playlist: [Made with MRTK: Bot Integratio
 
 |  Title |  Description |  Link |
 |---|---|---|
-| **Bot Integration: Setup Project**  | Learn how to setup your Unity environment in preparation to integrate a bot into the experience  | [https://youtu.be/li5GDKHWzAk](https://youtu.be/li5GDKHWzAk)  |
-| **Bot Integration: Create Azure Resources** |  Learn how to import the Mixed Reality Toolkit into Unity and configure the project with the Mixed Reality Toolkit. | [https://youtu.be/HPUMXxeDq4M](https://youtu.be/HPUMXxeDq4M) |
+| **Bot Integration: Setup Project**  | Learn how to setup your Unity environment in preparation to integrate a bot into the experience.  | [https://youtu.be/li5GDKHWzAk](https://youtu.be/li5GDKHWzAk)  |
+| **Bot Integration: Create Azure Resources** |  Learn how to create the Azure resources and the bot. | [https://youtu.be/HPUMXxeDq4M](https://youtu.be/HPUMXxeDq4M) |
 | **Bot Integration: Create UI and Bot Integration**  | Learn how to create the UI and add the scripts for bot integration.  | [https://youtu.be/pQO5P72n8Vc](https://youtu.be/pQO5P72n8Vc)    |
 | **Bot Integration: Demo** | View a demo of the project with a HoloLens 2.  | [https://youtu.be/zo-VHyKwraM](https://youtu.be/zo-VHyKwraM)  |
 
