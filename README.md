@@ -22,7 +22,7 @@ The videos and sample in this repository provides an introductory to creating a 
 
 ## Videos
 
-Videos are published on YouTube in the playlist: [Made with MRTK: Bot Integration](https://www.youtube.com/c/vogueandcode)
+Videos are published on YouTube in the playlist: [Made with MRTK: Bot Integration](https://www.youtube.com/playlist?list=PLAMIIZxk0qTQ6-nE7pW3a28WKVSu_SalZ)
 
 |  Title |  Description |  Link |
 |---|---|---|
